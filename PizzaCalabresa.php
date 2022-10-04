@@ -5,7 +5,8 @@ namespace padraoDecorator;
 class PizzaCalabresa extends Pizza {
 
     public function __construct(){
-        $this->descricao = "deliciosa pizza de calabresa";
+        
+        $this->descricao = "Deliciosa pizza de calabresa";
     }
     
     public function getDescricao(): string
