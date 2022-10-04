@@ -1,0 +1,16 @@
+{
+    "name": "carlinhos/padrao-decorator",
+    "authors": [
+        {
+            "name": "carlinhos xavier",
+            "email": "carlinhosjmx7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "padraoDecorator\\" : ""
+         }
+     },
+
+    "require": {}
+}
